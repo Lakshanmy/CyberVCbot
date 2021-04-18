@@ -1,4 +1,4 @@
-# Infinity BOTs <https://t.me/Infinity_BOTs>
+# CyberHackers <https://t.me/Cyber0Hacker>
 
 import logging
 from pyrogram import Client
@@ -10,4 +10,4 @@ logging.basicConfig(
 
 LOGGER = logging.getLogger(__name__)
 
-Cyber VC bot = Client("CyberSongBot", bot_token=BOT_TOKEN, api_hash=API_HASH, api_id=API_ID)
+JESongBot = Client("JESongBot", bot_token=BOT_TOKEN, api_hash=API_HASH, api_id=API_ID)
