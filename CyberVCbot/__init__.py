@@ -1,4 +1,4 @@
-# Infinity BOTs <https://t.me/Infinity_BOTs>
+# CyberHackers <https://t.me/Cyber0Hacker>
 
 import logging
 from pyrogram import Client
