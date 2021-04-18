@@ -1,1 +1,1 @@
-worker: python3 -m CyberVCBot
+worker: python3 -m JESongBot
